@@ -1,0 +1,37 @@
+﻿Name;Strength;Cost;Hero;Copies;Expansion;Ability 1;Ability 2
+Archer;3;3;FALSE;2;Base;Gain 2 vp when raiding an outpost;Swap an opponent's worker with 1 from the village
+Armourer;3;3;FALSE;3;Base;Gain 2 strength when raiding a monastery;Gain 1 armour
+Artisan;0;2;FALSE;3;Runesaga;1 vp per opposing merchant / trader at the game's end;Gain any 1 plunder.  All opponents gain 1 silver
+Assassin;3;3;FALSE;3;Runesaga;Gain 2 strength when raiding with a grey worker;Add 1 valkyrie to a chosen set of plunder
+Avenger;3;3;FALSE;2;Base;If killed, force an opponent to lose a crew member also;Force all opponents to lose 1 silver
+Barbarian;3;3;FALSE;3;Base;Gain 2 strength when raiding a fortress;Take any 1 plunder from an opponent
+Beggar;0;1;FALSE;2;Runesaga;Discard from crew at any time to gain 3 silver;Gain either 2 cards or 2 provisions
+Beserker;4;3;FALSE;4;Base;If killed in a raid place card back into your hand;Force an opponent to lose 1 armour
+Blacksmith;2;2;FALSE;2;Runesaga;Gain 1 silver when making an offering with iron;Lose 2 silver to gain 1 iron
+Brawler;2;2;FALSE;3;Base;Once per raid you may reroll 1 die;Lose 1 crew member to gain 1 plunder from the supply
+Brynjar;4;4;TRUE;1;Base;Gain 1 strength for every 3 armour you currently hold;
+Cartographer;0;1;FALSE;2;Base;Pay 1 less gold when raiding a fortress;Lose 1 provision to gain 1 gold
+Champion;4;4;FALSE;2;Base;Gain 3 vp at the game's end;Force all opponents to lose 1 provision
+Conspirator;1;1;FALSE;3;Runesaga;Draw 1 card when losing 1 or more crew during a raid;Discard cards to draw back an equal amount
+Farmer;0;2;FALSE;2;Runesaga;Gain 1 livestock when making an offering with none;Lose 1 provision to gain 1 livestock
+Folke;3;4;TRUE;1;Base;Gain 1 strength for all other hired crew members;
+Forager;0;1;FALSE;3;Base;Gain 1 additional provision in the mill;Gain 2 provisions
+Gatekeeper;2;3;FALSE;4;Base;Draw 1 additional card in the gate house;Draw 3 new cards to your hand
+Gravedigger;0;1;FALSE;3;Base;If killed in a raid gain 1 gold;Swap 1 hired crew member with a card from your hand
+Huntsman;1;1;FALSE;4;Base;Pay 1 less provision when raiding an outpost;Gain 1 provision and 1 silver
+Jeweller;0;1;FALSE;3;Base;Gain 1 additional silver in the silversmiwth;Lose 2 silver to gain 1 gold
+Jorunn;4;4;TRUE;1;Runesaga;Gain 1 strength for every 2 offerings you currently hold;
+Labourer;1;1;FALSE;2;Runesaga;Discard from crew at any time to gain 2 provisions;Lose 1 silver to gain 1 livestock
+Marauder;2;2;FALSE;3;Base;Gain 1 vp when raiding an outpost;Lose 1 livestock to gain 1 gold
+Merchant;0;2;FALSE;2;Base;Gain 1 additional vp for each livestock at the game's end;Use any building's action as if your workers were there
+Mercenary;4;4;FALSE;4;Base;If killed in a raid gain 1 vp;All players must give you 1 silver or 1 provision
+Ragnhildr;4;4;TRUE;1;Base;Gain 1 strength for every 2 valkyrie you have taken;
+Recruiter;1;2;FALSE;3;Base;Pay 1 less silver when hiring crew in the barracks;Hire 1 crew member immediately for only 2 silver
+Sage;0;2;FALSE;2;Base;You may take 1 additional action in the long house;Move all 3 offering tiles to the bottom of the stack
+Scout;2;2;FALSE;3;Base;Pay 1 less provision when raiding a monastery;Swap an equal amount of cards with an opponent
+Shieldmaiden;3;3;FALSE;4;Base;Gain 1 vp when raiding a monastery;Lose 1 livestock to gain 1 iron
+Thief;1;1;FALSE;2;Runesaga;Gain 1 silver after taking a treasury action;Take any 1 plunder from a chosen harbour
+Trader;0;3;FALSE;2;Base;Gain 1 additional vp for each offerings tile at the game's end;Make an offering paying 1 less plunder or silver
+Tyrant;4;4;FALSE;2;Runesaga;If killed in a raid count death twice on the valkyrie track;Gain 1 vp for each opposing hero currently in play
+Warlord;3;4;FALSE;3;Base;Gain 2 vp at the game's end;Take up to 2 silver from an opponent
+Warmonger;3;3;FALSE;4;Base;Gain 1 vp when raiding a harbour;Take 1 provision from an opponent

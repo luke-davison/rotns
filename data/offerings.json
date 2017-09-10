@@ -1,0 +1,114 @@
+[
+ {
+   "silver": 2,
+   "livestock": 0,
+   "iron": 0,
+   "gold": 1,
+   "vps": 3
+ },
+ {
+   "silver": 0,
+   "livestock": 1,
+   "iron": 1,
+   "gold": 1,
+   "vps": 5
+ },
+ {
+   "silver": 1,
+   "livestock": 3,
+   "iron": 0,
+   "gold": 0,
+   "vps": 4
+ },
+ {
+   "silver": 0,
+   "livestock": 2,
+   "iron": 0,
+   "gold": 1,
+   "vps": 4
+ },
+ {
+   "silver": 0,
+   "livestock": 2,
+   "iron": 1,
+   "gold": 0,
+   "vps": 4
+ },
+ {
+   "silver": 0,
+   "livestock": 0,
+   "iron": 0,
+   "gold": 2,
+   "vps": 4
+ },
+ {
+   "silver": 0,
+   "livestock": 1,
+   "iron": 0,
+   "gold": 1,
+   "vps": 3
+ },
+ {
+   "silver": 2,
+   "livestock": 0,
+   "iron": 1,
+   "gold": 0,
+   "vps": 3
+ },
+ {
+   "silver": 0,
+   "livestock": 2,
+   "iron": 0,
+   "gold": 2,
+   "vps": 6
+ },
+ {
+   "silver": 1,
+   "livestock": 2,
+   "iron": 1,
+   "gold": 0,
+   "vps": 5
+ },
+ {
+   "silver": 0,
+   "livestock": 0,
+   "iron": 1,
+   "gold": 1,
+   "vps": 4
+ },
+ {
+   "silver": 4,
+   "livestock": 0,
+   "iron": 0,
+   "gold": 0,
+   "vps": 2
+ },
+ {
+   "silver": 1,
+   "livestock": 2,
+   "iron": 0,
+   "gold": 1,
+   "vps": 5
+ },
+ {
+   "silver": 0,
+   "livestock": 2,
+   "iron": 2,
+   "gold": 0,
+   "vps": 6
+ },
+ {
+   "silver": 0,
+   "livestock": 1,
+   "iron": 1,
+   "gold": 0,
+   "vps": 3
+ },
+ {
+   "silver": 0,
+   "livestock": 0,
+   "iron": 2,
+   "gold": 0,
+   "vps": 4
+ }
+]

@@ -1,0 +1,473 @@
+[{
+    "name": "Fortress",
+    "rewards": 2,
+    "worker": "white",
+    "gold": 2,
+    "provisions": 3,
+    "requires:": [
+      "white"
+    ],
+    "crew": 5,
+    "dice": 2,
+    "vps": [{
+        "threshold": 22,
+        "vps": 7
+      },
+      {
+        "threshold": 28,
+        "vps": 9
+      },
+      {
+        "threshold": 36,
+        "vps": 12
+      }
+    ]
+
+  },
+  {
+    "name": "Fortress",
+    "rewards": 3,
+    "worker": "white",
+    "gold": 2,
+    "provisions": 3,
+    "requires:": [
+      "white"
+    ],
+    "crew": 5,
+    "dice": 2,
+    "vps": [{
+        "threshold": 22,
+        "vps": 7
+      },
+      {
+        "threshold": 28,
+        "vps": 9
+      },
+      {
+        "threshold": 36,
+        "vps": 12
+      }
+    ]
+  },
+  {
+    "name": "Fortress",
+    "rewards": 2,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 2,
+    "requires:": [
+      "white"
+    ],
+    "crew": 4,
+    "dice": 2,
+    "vps": [{
+        "threshold": 18,
+        "vps": 5
+      },
+      {
+        "threshold": 24,
+        "vps": 7
+      },
+      {
+        "threshold": 32,
+        "vps": 10
+      }
+    ]
+  },
+  {
+    "name": "Fortress",
+    "rewards": 2,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 2,
+    "requires:": [
+      "white"
+    ],
+    "crew": 4,
+    "dice": 2,
+    "vps": [{
+        "threshold": 18,
+        "vps": 5
+      },
+      {
+        "threshold": 24,
+        "vps": 7
+      },
+      {
+        "threshold": 32,
+        "vps": 10
+      }
+    ]
+  },
+  {
+    "name": "Fortress",
+    "rewards": 2,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 4,
+    "requires:": [
+      "white"
+    ],
+    "crew": 5,
+    "dice": 2,
+    "vps": [{
+        "threshold": 20,
+        "vps": 6
+      },
+      {
+        "threshold": 26,
+        "vps": 8
+      },
+      {
+        "threshold": 34,
+        "vps": 11
+      }
+    ]
+  },
+  {
+    "name": "Fortress",
+    "rewards": 3,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 4,
+    "requires:": [
+      "white"
+    ],
+    "crew": 5,
+    "dice": 2,
+    "vps": [{
+        "threshold": 20,
+        "vps": 6
+      },
+      {
+        "threshold": 26,
+        "vps": 8
+      },
+      {
+        "threshold": 34,
+        "vps": 11
+      }
+    ]
+  },
+  {
+    "name": "Monastery",
+    "rewards": 3,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 3,
+    "requires:": [
+      "white", "grey"
+    ],
+    "crew": 4,
+    "dice": 2,
+    "vps": [{
+        "threshold": 12,
+        "vps": 4
+      },
+      {
+        "threshold": 20,
+        "vps": 6
+      }
+    ]
+  },
+  {
+    "name": "Monastery",
+    "rewards": 2,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 3,
+    "requires:": [
+      "white", "grey"
+    ],
+    "crew": 4,
+    "dice": 2,
+    "vps": [{
+        "threshold": 12,
+        "vps": 4
+      },
+      {
+        "threshold": 20,
+        "vps": 6
+      }
+    ]
+  },
+  {
+    "name": "Monastery",
+    "rewards": 2,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 2,
+    "requires:": [
+      "white", "grey"
+    ],
+    "crew": 3,
+    "dice": 2,
+    "vps": [{
+        "threshold": 14,
+        "vps": 4
+      },
+      {
+        "threshold": 22,
+        "vps": 6
+      }
+    ]
+  },
+  {
+    "name": "Monastery",
+    "rewards": 3,
+    "worker": "white",
+    "gold": 1,
+    "provisions": 2,
+    "requires:": [
+      "white", "grey"
+    ],
+    "crew": 3,
+    "dice": 2,
+    "vps": [{
+        "threshold": 14,
+        "vps": 4
+      },
+      {
+        "threshold": 22,
+        "vps": 6
+      }
+    ]
+  },
+  {
+    "name": "Outpost",
+    "rewards": 3,
+    "worker": "white",
+    "gold": 0,
+    "provisions": 3,
+    "requires:": [
+      "grey"
+    ],
+    "crew": 3,
+    "dice": 1,
+    "vps": [{
+        "threshold": 10,
+        "vps": 2
+      },
+      {
+        "threshold": 16,
+        "vps": 4
+      }
+    ]
+  },
+  {
+    "name": "Outpost",
+    "rewards": 3,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 3,
+    "requires:": [
+      "grey"
+    ],
+    "crew": 3,
+    "dice": 1,
+    "vps": [{
+        "threshold": 10,
+        "vps": 2
+      },
+      {
+        "threshold": 16,
+        "vps": 4
+      }
+    ]
+  },
+  {
+    "name": "Outpost",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 4,
+    "requires:": [
+      "grey"
+    ],
+    "crew": 3,
+    "dice": 1,
+    "vps": [{
+        "threshold": 8,
+        "vps": 2
+      },
+      {
+        "threshold": 14,
+        "vps": 4
+      }
+    ]
+  },
+  {
+    "name": "Outpost",
+    "rewards": 3,
+    "worker": "white",
+    "gold": 0,
+    "provisions": 4,
+    "requires:": [
+      "grey"
+    ],
+    "crew": 3,
+    "dice": 1,
+    "vps": [{
+        "threshold": 8,
+        "vps": 2
+      },
+      {
+        "threshold": 14,
+        "vps": 4
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 2,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 2,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 3,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 2,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 2,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 2,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 2,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 3,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 1,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 3,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 1,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 3,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 1,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 3,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 3,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 2,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 3,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 3,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 2,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  },
+  {
+    "name": "Harbour",
+    "rewards": 4,
+    "worker": "grey",
+    "gold": 0,
+    "provisions": 3,
+    "requires:": [
+      "grey", "black"
+    ],
+    "crew": 2,
+    "dice": 0,
+    "vps": [{
+        "threshold": 0,
+        "vps": 1
+      }
+    ]
+  }
+]

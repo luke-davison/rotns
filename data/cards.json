@@ -1,0 +1,362 @@
+[
+ {
+   "name": "Archer",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "Gain 2 vp when raiding an outpost",
+   "ability2": "Swap an opponent's worker with 1 from the village"
+ },
+ {
+   "name": "Armourer",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Gain 2 strength when raiding a monastery",
+   "ability2": "Gain 1 armour"
+ },
+ {
+   "name": "Artisan",
+   "strength": 0,
+   "cost": 2,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Runesaga",
+   "ability1": "1 vp per opposing merchant / trader at the game's end",
+   "ability2": "Gain any 1 plunder.  All opponents gain 1 silver"
+ },
+ {
+   "name": "Assassin",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Runesaga",
+   "ability1": "Gain 2 strength when raiding with a grey worker",
+   "ability2": "Add 1 valkyrie to a chosen set of plunder"
+ },
+ {
+   "name": "Avenger",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "If killed, force an opponent to lose a crew member also",
+   "ability2": "Force all opponents to lose 1 silver"
+ },
+ {
+   "name": "Barbarian",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Gain 2 strength when raiding a fortress",
+   "ability2": "Take any 1 plunder from an opponent"
+ },
+ {
+   "name": "Beggar",
+   "strength": 0,
+   "cost": 1,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Runesaga",
+   "ability1": "Discard from crew at any time to gain 3 silver",
+   "ability2": "Gain either 2 cards or 2 provisions"
+ },
+ {
+   "name": "Beserker",
+   "strength": 4,
+   "cost": 3,
+   "hero": false,
+   "copies": 4,
+   "expansion": "Base",
+   "ability1": "If killed in a raid place card back into your hand",
+   "ability2": "Force an opponent to lose 1 armour"
+ },
+ {
+   "name": "Blacksmith",
+   "strength": 2,
+   "cost": 2,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Runesaga",
+   "ability1": "Gain 1 silver when making an offering with iron",
+   "ability2": "Lose 2 silver to gain 1 iron"
+ },
+ {
+   "name": "Brawler",
+   "strength": 2,
+   "cost": 2,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Once per raid you may reroll 1 die",
+   "ability2": "Lose 1 crew member to gain 1 plunder from the supply"
+ },
+ {
+   "name": "Brynjar",
+   "strength": 4,
+   "cost": 4,
+   "hero": true,
+   "copies": 1,
+   "expansion": "Base",
+   "ability1": "Gain 1 strength for every 3 armour you currently hold",
+   "ability2": ""
+ },
+ {
+   "name": "Cartographer",
+   "strength": 0,
+   "cost": 1,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "Pay 1 less gold when raiding a fortress",
+   "ability2": "Lose 1 provision to gain 1 gold"
+ },
+ {
+   "name": "Champion",
+   "strength": 4,
+   "cost": 4,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "Gain 3 vp at the game's end",
+   "ability2": "Force all opponents to lose 1 provision"
+ },
+ {
+   "name": "Conspirator",
+   "strength": 1,
+   "cost": 1,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Runesaga",
+   "ability1": "Draw 1 card when losing 1 or more crew during a raid",
+   "ability2": "Discard cards to draw back an equal amount"
+ },
+ {
+   "name": "Farmer",
+   "strength": 0,
+   "cost": 2,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Runesaga",
+   "ability1": "Gain 1 livestock when making an offering with none",
+   "ability2": "Lose 1 provision to gain 1 livestock"
+ },
+ {
+   "name": "Folke",
+   "strength": 3,
+   "cost": 4,
+   "hero": true,
+   "copies": 1,
+   "expansion": "Base",
+   "ability1": "Gain 1 strength for all other hired crew members",
+   "ability2": ""
+ },
+ {
+   "name": "Forager",
+   "strength": 0,
+   "cost": 1,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Gain 1 additional provision in the mill",
+   "ability2": "Gain 2 provisions"
+ },
+ {
+   "name": "Gatekeeper",
+   "strength": 2,
+   "cost": 3,
+   "hero": false,
+   "copies": 4,
+   "expansion": "Base",
+   "ability1": "Draw 1 additional card in the gate house",
+   "ability2": "Draw 3 new cards to your hand"
+ },
+ {
+   "name": "Gravedigger",
+   "strength": 0,
+   "cost": 1,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "If killed in a raid gain 1 gold",
+   "ability2": "Swap 1 hired crew member with a card from your hand"
+ },
+ {
+   "name": "Huntsman",
+   "strength": 1,
+   "cost": 1,
+   "hero": false,
+   "copies": 4,
+   "expansion": "Base",
+   "ability1": "Pay 1 less provision when raiding an outpost",
+   "ability2": "Gain 1 provision and 1 silver"
+ },
+ {
+   "name": "Jeweller",
+   "strength": 0,
+   "cost": 1,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Gain 1 additional silver in the silversmiwth",
+   "ability2": "Lose 2 silver to gain 1 gold"
+ },
+ {
+   "name": "Jorunn",
+   "strength": 4,
+   "cost": 4,
+   "hero": true,
+   "copies": 1,
+   "expansion": "Runesaga",
+   "ability1": "Gain 1 strength for every 2 offerings you currently hold",
+   "ability2": ""
+ },
+ {
+   "name": "Labourer",
+   "strength": 1,
+   "cost": 1,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Runesaga",
+   "ability1": "Discard from crew at any time to gain 2 provisions",
+   "ability2": "Lose 1 silver to gain 1 livestock"
+ },
+ {
+   "name": "Marauder",
+   "strength": 2,
+   "cost": 2,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Gain 1 vp when raiding an outpost",
+   "ability2": "Lose 1 livestock to gain 1 gold"
+ },
+ {
+   "name": "Merchant",
+   "strength": 0,
+   "cost": 2,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "Gain 1 additional vp for each livestock at the game's end",
+   "ability2": "Use any building's action as if your workers were there"
+ },
+ {
+   "name": "Mercenary",
+   "strength": 4,
+   "cost": 4,
+   "hero": false,
+   "copies": 4,
+   "expansion": "Base",
+   "ability1": "If killed in a raid gain 1 vp",
+   "ability2": "All players must give you 1 silver or 1 provision"
+ },
+ {
+   "name": "Ragnhildr",
+   "strength": 4,
+   "cost": 4,
+   "hero": true,
+   "copies": 1,
+   "expansion": "Base",
+   "ability1": "Gain 1 strength for every 2 valkyrie you have taken",
+   "ability2": ""
+ },
+ {
+   "name": "Recruiter",
+   "strength": 1,
+   "cost": 2,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Pay 1 less silver when hiring crew in the barracks",
+   "ability2": "Hire 1 crew member immediately for only 2 silver"
+ },
+ {
+   "name": "Sage",
+   "strength": 0,
+   "cost": 2,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "You may take 1 additional action in the long house",
+   "ability2": "Move all 3 offering tiles to the bottom of the stack"
+ },
+ {
+   "name": "Scout",
+   "strength": 2,
+   "cost": 2,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Pay 1 less provision when raiding a monastery",
+   "ability2": "Swap an equal amount of cards with an opponent"
+ },
+ {
+   "name": "Shieldmaiden",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 4,
+   "expansion": "Base",
+   "ability1": "Gain 1 vp when raiding a monastery",
+   "ability2": "Lose 1 livestock to gain 1 iron"
+ },
+ {
+   "name": "Thief",
+   "strength": 1,
+   "cost": 1,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Runesaga",
+   "ability1": "Gain 1 silver after taking a treasury action",
+   "ability2": "Take any 1 plunder from a chosen harbour"
+ },
+ {
+   "name": "Trader",
+   "strength": 0,
+   "cost": 3,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Base",
+   "ability1": "Gain 1 additional vp for each offerings tile at the game's end",
+   "ability2": "Make an offering paying 1 less plunder or silver"
+ },
+ {
+   "name": "Tyrant",
+   "strength": 4,
+   "cost": 4,
+   "hero": false,
+   "copies": 2,
+   "expansion": "Runesaga",
+   "ability1": "If killed in a raid count death twice on the valkyrie track",
+   "ability2": "Gain 1 vp for each opposing hero currently in play"
+ },
+ {
+   "name": "Warlord",
+   "strength": 3,
+   "cost": 4,
+   "hero": false,
+   "copies": 3,
+   "expansion": "Base",
+   "ability1": "Gain 2 vp at the game's end",
+   "ability2": "Take up to 2 silver from an opponent"
+ },
+ {
+   "name": "Warmonger",
+   "strength": 3,
+   "cost": 3,
+   "hero": false,
+   "copies": 4,
+   "expansion": "Base",
+   "ability1": "Gain 1 vp when raiding a harbour",
+   "ability2": "Take 1 provision from an opponent"
+ }
+]
